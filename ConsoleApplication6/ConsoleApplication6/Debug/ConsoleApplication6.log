@@ -1,0 +1,4 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\budan\OneDrive\Рабочий стол\Учеба 1 семестр\Системное программирование\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\budan\OneDrive\Рабочий стол\Учеба 1 семестр\Системное программирование\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication6.vcxproj -> C:\Users\budan\OneDrive\Рабочий стол\Учеба 1 семестр\Системное программирование\ConsoleApplication6\Debug\ConsoleApplication6.exe
